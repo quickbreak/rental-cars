@@ -1,3 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import './styles/base.css';
+@import './styles/components/navbar.css';
+@import './styles/components/car-card.css';
+@import './styles/components/hero.css';
+@import './styles/components/booking.css';
+@import './styles/components/auth.css';
